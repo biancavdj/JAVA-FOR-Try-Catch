@@ -1,0 +1,1 @@
+Este projeto em Java foi desenvolvido para coletar e processar dados meteorológicos diários ao longo de um mês (30 dias). O código utiliza várias técnicas de programação, incluindo estruturas de repetição, controle de fluxo e tratamento de exceções.
